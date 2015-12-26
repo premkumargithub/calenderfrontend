@@ -1,0 +1,22 @@
+{
+  "name": "bitcoinfrontend",
+  "version": "1.0.0",
+  "description": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Abhinav",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}
